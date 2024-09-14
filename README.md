@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://youtu.be/-lZf-IMnwqM" alt="project-screenshot" width="300" height="300/">
+<img src="[https://youtu.be/-lZf-IMnwqM](https://github.com/AdityaKumarMohanty/crm-fullstack/blob/e3427369d9534190f7737c858144af3f654dea04/project-snapshots/Screenshot%202024-09-14%20112359.png)" alt="project-screenshot" width="300" height="300/">
 
   
   
