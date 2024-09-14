@@ -8,7 +8,23 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="[https://youtu.be/-lZf-IMnwqM](https://github.com/AdityaKumarMohanty/crm-fullstack/blob/e3427369d9534190f7737c858144af3f654dea04/project-snapshots/Screenshot%202024-09-14%20112359.png)" alt="project-screenshot" width="300" height="300/">
+<img src="https://github.com/AdityaKumarMohanty/crm-fullstack/blob/e3427369d9534190f7737c858144af3f654dea04/project-snapshots/Screenshot%202024-09-14%20112359.png" width="600" height="400/">
+
+<img src="https://github.com/AdityaKumarMohanty/crm-fullstack/blob/8c761029db0cbb82bc5783d016715cb1c4c26b53/project-snapshots/Screenshot%202024-09-14%20112449.png" width="600" height="400/">
+
+<img src="https://github.com/AdityaKumarMohanty/crm-fullstack/blob/8c761029db0cbb82bc5783d016715cb1c4c26b53/project-snapshots/Screenshot%202024-09-14%20112508.png" width="600" height="400/">
+
+<img src="https://github.com/AdityaKumarMohanty/crm-fullstack/blob/8c761029db0cbb82bc5783d016715cb1c4c26b53/project-snapshots/Screenshot%202024-09-14%20112604.png" width="600" height="400/">
+
+<img src="https://github.com/AdityaKumarMohanty/crm-fullstack/blob/8c761029db0cbb82bc5783d016715cb1c4c26b53/project-snapshots/Screenshot%202024-09-14%20112622.png" width="600" height="400/">
+
+<img src="https://github.com/AdityaKumarMohanty/crm-fullstack/blob/8c761029db0cbb82bc5783d016715cb1c4c26b53/project-snapshots/Screenshot%202024-09-14%20112640.png" width="600" height="400/">
+
+<img src="https://github.com/AdityaKumarMohanty/crm-fullstack/blob/8c761029db0cbb82bc5783d016715cb1c4c26b53/project-snapshots/Screenshot%202024-09-14%20112659.png" width="600" height="400/">
+
+<img src="https://github.com/AdityaKumarMohanty/crm-fullstack/blob/8c761029db0cbb82bc5783d016715cb1c4c26b53/project-snapshots/Screenshot%202024-09-14%20112716.png" width="600" height="400/">
+
+<img src="https://github.com/AdityaKumarMohanty/crm-fullstack/blob/8c761029db0cbb82bc5783d016715cb1c4c26b53/project-snapshots/Screenshot%202024-09-14%20112803.png" width="600" height="400/">
 
   
   
