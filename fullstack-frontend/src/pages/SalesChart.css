@@ -1,0 +1,21 @@
+/* SalesChart.css */
+.sales-chart-container {
+    max-width:1200px; /* Further increased size */
+    margin: 40px auto; /* Center and add space */
+    padding: 40px;
+  }
+  
+  .text-center {
+    text-align: center;
+    font-size: 29px; /* Larger title */
+  }
+  
+  .form-select {
+    font-size: 18px;
+    padding: 10px;
+  }
+  
+  .ms-3 {
+    margin-left: 2rem; /* Spacing between month and year dropdowns */
+  }
+  
